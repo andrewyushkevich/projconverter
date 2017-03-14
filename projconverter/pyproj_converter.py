@@ -84,7 +84,7 @@ def main():
                                   path=args.path, coordinate=args.coordinate)
 
     except RuntimeError:
-        print "Wrong EPSG code"
+        print "Check arguments or EPSG code"
 
 if __name__ == '__main__':
     main()
