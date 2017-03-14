@@ -10,7 +10,7 @@ setup(
     install_requires=['pyproj'],
     license = 'BSD-3-Clause',
     url='https://github.com/andrewyushkevich/projconverter',
-    description='Pyproj Converter for terminal',
+    description='CLI Pyproj Converter tool',
     long_description=open('README.md').read(),
     entry_points = {
         'console_scripts': [
