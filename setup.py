@@ -14,7 +14,7 @@ setup(
     long_description=open('README.md').read(),
     entry_points = {
         'console_scripts': [
-            'projconverterr = projconverter.projconverter:main',
+            'projconverter = projconverter.projconverter:main',
         ],
     },
 )
