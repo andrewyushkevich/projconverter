@@ -1,2 +1,2 @@
-# pyproj_converter
-Pyproj converter
+# projconverter
+Pyproj converter for terminal
